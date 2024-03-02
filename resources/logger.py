@@ -26,7 +26,6 @@ class Logger:
     @classmethod
     def setup_logger(self):
         try:
-
             if not os.path.exists(DAY_PATH):
                 os.makedirs(DAY_PATH)
 
