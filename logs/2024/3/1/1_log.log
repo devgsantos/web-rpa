@@ -1,0 +1,6 @@
+2024-03-01 22:28:19,487 | INFO | Página da web iniciada -> Web form
+2024-03-01 22:28:19,573 | WARNING | Texto inserido no input -> Selenium
+2024-03-01 22:28:19,821 | INFO | Botão de submissão clicado.
+2024-03-01 22:28:19,840 | WARNING | Resposta recebida da página -> Received!
+2024-03-01 22:28:25,090 | INFO | Página fechada.
+2024-03-01 22:28:25,090 | INFO | Automação finalizada.
